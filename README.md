@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiralcraft0&layout=compact&theme=tokyonight)
 
-
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ## 📫 Connect With Me
 
 - Email: yiralcraft0@gmail.com

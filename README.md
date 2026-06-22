@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanshu Kumar
 
-<!--
-**yiralcraft0/yiralcraft0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer
+📱 Android Developer (Java)
+🌐 Web Developer
+🚀 Currently learning DSA & Android Development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Android Studio
+
+## 📌 Featured Projects
+
+### 📱 DayCraft
+A native Android To-Do app built with Java and SQLite.
+
+### 🌐 Portfolio Website
+My personal portfolio showcasing projects and skills.
+
+### 🧮 Calculator App
+Calculator built using Python.
+
+## 📫 Connect With Me
+
+- Email: yiralcraft0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/priyanshu-kumar-4b7943410/
+- Instagram: https://www.instagram.com/priyanshu0yt/?hl=en

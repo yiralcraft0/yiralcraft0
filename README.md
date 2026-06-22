@@ -23,16 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiralcraft0&layout=compact&theme=tokyonight)
 
-## 📌 Featured Projects
-
-### 📱 DayCraft
-A native Android To-Do app built with Java and SQLite.
-
-### 🌐 Portfolio Website
-My personal portfolio showcasing projects and skills.
-
-### 🧮 Calculator App
-Calculator built using Python.
 
 ## 📫 Connect With Me
 

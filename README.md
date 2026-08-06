@@ -1,9 +1,9 @@
 # Yoo 👋, I'm Priyanshu Kumar
 
-💻 Aspiring Software Developer
-📱 Android Developer (Java)
-🌐 Web Developer
-🚀 Currently learning DSA & Android Development
+- 💻 Aspiring Software Developer
+- 📱 Android Developer (Java)
+- 🌐 Web Developer
+- 🚀 Currently learning DSA & Computer Vision
 # **[My Portfolio](https://yiralcraft0.github.io/portfolio-website/)**
 ## 🛠 Tech Stack
 

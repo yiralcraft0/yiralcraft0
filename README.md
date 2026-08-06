@@ -1,4 +1,4 @@
-# Hi 👋, I'm Priyanshu Kumar
+# Yoo 👋, I'm Priyanshu Kumar
 
 💻 Aspiring Software Developer
 📱 Android Developer (Java)

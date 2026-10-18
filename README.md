@@ -40,20 +40,16 @@ class Developer:
 </div>
 
 <!-- ═════════════ SNAKE ═════════════ -->
-<h2 align="center">🐍 Snake vs. My Contributions</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yiralcraft0/yiralcraft0/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/yiralcraft0/yiralcraft0/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
-<p align="center">
-  <a href="https://yiralcraft0.github.io/portfolio-website/snake/">
-    <img alt="Play Snake" src="https://img.shields.io/badge/%F0%9F%8E%AE%20Play-Snake%20Game-4ade80?style=for-the-badge&labelColor=161b22"/>
-  </a>
-</p>
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![GitHub Snake Dark](https://raw.githubusercontent.com/yiralcraft0/yiralcraft0/output/github-snake-dark.svg)
+
+</div>
+
 
 <!-- ═════════════ CONTACT ═════════════ -->
 <h2 align="center">📫 Let's Connect</h2>
